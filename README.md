@@ -1,6 +1,6 @@
 # Churn_Dashboard
 ## Dashboard Preview
-![Churn Dashboard](Churn_Dashboard.png)
+![Churn Dashboard](churn_dashboard.png)
 
 ## Power BI Dashboard Contains:
 - KPI Cards: Total Customers, Churn Rate %
